@@ -1,4 +1,5 @@
 # apnacollege-demo
-this is my first git repository 
-<br>
-Author - Krishna 
+
+This is my first git repository.
+
+Author - Krishna
