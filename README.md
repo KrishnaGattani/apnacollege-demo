@@ -2,4 +2,4 @@
 
 This is my first git repository.
 
-Author - Krishna
+Author - Krishna (Chandigarh University)
